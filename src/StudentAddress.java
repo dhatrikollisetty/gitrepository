@@ -1,5 +1,5 @@
 public class StudentAddress{
-    String village;
+    String studentVillage;
     String city;
 
     public StudentAddress(String village, String city) {
